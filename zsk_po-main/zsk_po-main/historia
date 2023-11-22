@@ -1,0 +1,40 @@
+  134  ls
+  135  cat file
+  136  echo "druga linia" >> file
+  137  cat file
+  138  vim file
+  139  cat file
+  140  vim file
+  141  vim file
+  142  history
+  143  git config --global --lst
+  144  git config --global --list
+  145  git config --global --edit
+  146  git config --global --list
+  147  ls -l
+  148  ls -l ..
+  149  ls -l .. > file
+  150  vim file
+  151  alias c=clear
+  152  c
+  153  git status
+  154  ls
+  155  ls ../
+  156  cd ../
+  157  ls ../
+  158  ls
+  159  git add*
+  160  git add *
+  161  git status
+  162  git commit -m "add new file"
+  163  git status
+  164  git push origin main
+  165  git config credential.username "BergFilip"
+  166  git push origin main
+  167  history
+  168  history > historia | tail -40
+  169  history
+  170  history > historia | tail -40
+  171  vim historia
+  172  history | tail -40
+  173  history | tail -40 > historia
